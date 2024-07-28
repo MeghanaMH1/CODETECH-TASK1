@@ -1,19 +1,22 @@
 **Name:** MEGHANA MH
+
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:** CT4CC4123
+
 **Domain:** Cloud Computing
-**Duration:** July to August 2024
-**Mentor:** 
+
+**Duration:** July to August 2024 
 
 
-##Overview of the Project
+## Overview of the Project
 
-###Project: Deploying A Web Application On AWS
+### Project: Deploying A Web Application On AWS
 
-###Objective
+### Objective
 The objective of deploying a web application on AWS is to leverage cloud infrastructure for scalable, reliable, and cost-effective hosting while ensuring high performance and security. This approach enhances manageability and availability to support growth and operational efficiency.
 
-###Key Activities
+### Key Activities
 1. **Plan Your Setup**: Design the architecture of your app, choosing the right AWS services like servers, databases, and storage.
 2. **Set Up Resources**: Create and configure the necessary AWS resources, such as virtual machines and databases.
 3. **Deploy the App**: Use tools like Elastic Beanstalk or CodeDeploy to get your app running on AWS.
@@ -24,7 +27,7 @@ The objective of deploying a web application on AWS is to leverage cloud infrast
 8. **Manage Costs**: Keep track of your spending and adjust resources to stay within budget.
 9. **Backup and Recover**: Set up backups to protect your data and ensure you can recover if something goes wrong.
 
-###Technologies Used
+### Technologies Used
 1. **Amazon EC2**: Virtual computers to run your app.
 2. **Amazon S3**: Storage for files like images and backups.
 3. **Amazon RDS**: Managed databases for storing app data.
@@ -39,7 +42,7 @@ The objective of deploying a web application on AWS is to leverage cloud infrast
 12. **AWS Auto Scaling**: Adjusts resources based on your app’s needs.
 13. **AWS Backup**: Ensures your data is backed up and can be restored if needed.
 
-###Key Insights
+### Key Insights
 1. **Scalability**: AWS offers auto-scaling capabilities, allowing your application to handle varying traffic loads efficiently by adding or removing resources as needed.
 2. **Cost Efficiency**: AWS’s pay-as-you-go model helps manage costs by charging only for the resources you use, but it’s important to monitor usage to avoid unexpected charges.
 3. **Automation**: Services like AWS Elastic Beanstalk and CloudFormation streamline deployment and infrastructure management, reducing manual setup and errors.
