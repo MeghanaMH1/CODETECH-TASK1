@@ -1,0 +1,19 @@
+                                  DEPLOYING A WEB APPLICATION ON AWS
+
+Create an account in AWS website
+Create an EC2 Instance
+Connect to an EC2 Instance
+Linux Commands used:
+1. sudo su -
+2. yum update -y
+3. yum install -y httpd
+4. systemctl status httpd
+5. mkdir temp
+6. cd temp
+7. wget https://www.free-css.com/assets/files/free-css-templates/download/page296/spering.zip
+8. unzip spering.zip
+9. cd spering
+10. ls -lrt
+11. mv * /var/www/html
+12. systemctl enable httpd
+13. systemctl start httpd
